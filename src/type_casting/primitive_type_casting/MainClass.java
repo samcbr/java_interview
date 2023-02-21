@@ -1,4 +1,4 @@
-package type_casting;
+package type_casting.primitive_type_casting;
 
 public class MainClass {
     public static void main(String[] args) {
